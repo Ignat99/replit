@@ -2,7 +2,7 @@
 Some test of Python
 
 
-Condición
+## 1 Condición
 Recorrer los 100 primeros números naturales. Si un numero es multiplo de 3 imprime Fizz. Si es múltiplo de 5 imprime Buzz. Si es múltiplo de los dos imprime FizzBuzz.
 Expected Output
 
@@ -107,7 +107,7 @@ Fizz
 Fizz
 Buzz
 
-HackerLand National Bank has a simple policy for warning clients about possible  fraudulent account activity. If the amount spent by a client on a  particular day is greater than or equal to 2x the client's median spending for the last d days, they send the client a notification about potential fraud. The bank doesn't send the client any notifications until they have at least d prior days of transaction data.
+## 2 HackerLand National Bank has a simple policy for warning clients about possible  fraudulent account activity. If the amount spent by a client on a  particular day is greater than or equal to 2x the client's median spending for the last d days, they send the client a notification about potential fraud. The bank doesn't send the client any notifications until they have at least d prior days of transaction data.
 
 Given the value of d and a client's total daily expenditures for a period of n days, find and print the number of times the client will receive a notification over all n days.
 
@@ -157,7 +157,7 @@ Sample Output 1
 
 0
 
-Problem
+## 3 Problem
 An Arithmetic Progression is defined as one in which there is a  constant difference between the consecutive terms of a given series of  numbers.
 
 
@@ -205,7 +205,7 @@ Execution examples
 >196
 
 
-Problem 
+## 4 Problem 
 We have a string s
 We have a number n
 
